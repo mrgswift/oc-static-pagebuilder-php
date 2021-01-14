@@ -1,0 +1,32 @@
+{
+    "localAssets": {
+        "css": [
+            "/plugins/mg/pagebuilder/vendor/simplelightbox/css/simplelightbox.min.css",
+            "/plugins/mg/pagebuilder/vendor/ionicons/css/ionicons.min.css",
+            "!pagebuildercss_local"
+        ],
+        "js": [
+            "/plugins/mg/pagebuilder/vendor/simplelightbox/js/simple-lightbox.min.js",
+            "/plugins/mg/pagebuilder/vendor/pace/pace.min.js",
+            "!pagebuilder_local",
+            "/plugins/mg/pagebuilder/vendor/slick/slick.min.js",
+            "/plugins/mg/pagebuilder/vendor/skrollr/skrollr.min.js",
+            "/plugins/mg/pagebuilder/vendor/aos/aos.min.js"
+        ]
+    },
+    "remoteAssets": {
+        "css": [
+            "https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/1.16.3/simplelightbox.min.css",
+            "https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css",
+            "!pagebuildercss_local"
+        ],
+        "js": [
+            "https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/1.16.3/simple-lightbox.min.js",
+            "https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.0/pace.min.js",
+            "!pagebuilderjs_local",
+            "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js",
+            "https://cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.30/skrollr.min.js",
+            "https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"
+        ]
+    }
+}

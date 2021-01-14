@@ -1,0 +1,12 @@
+    <div id="root" class="is-wrapper">
+        <?= $content ?>
+    </div>
+    <script>
+        //Add JS variables that are needed to post save content requests to Rainlab/Pages plugin
+        <?= $JsSessionVars ?>
+
+        //$.oc.stripeLoadIndicator.show();
+
+        //Remove sidebar
+        $('.layout-sidenav-container').remove();
+    </script>

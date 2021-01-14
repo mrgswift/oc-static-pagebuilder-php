@@ -1,0 +1,10 @@
+plugin:
+    name: 'mg.pagebuilder::lang.plugin.name'
+    description: 'mg.pagebuilder::lang.plugin.description'
+    author: 'Matthew Guillot'
+    icon: oc-icon-newspaper-o
+    homepage: ''
+permissions:
+    mg.pagebuilder:
+        tab: 'Page Builder'
+        label: 'Access Page Builder'
